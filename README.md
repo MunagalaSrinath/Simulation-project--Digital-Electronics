@@ -43,14 +43,14 @@ So, the Gray code representation of the 6-bit binary number 101011 is 111100.
 Please note that this theory assumes a basic understanding of binary arithmetic and logical operations such as XOR. The implementation of a 6-bit binary to Gray code converter can vary based on the specific hardware or programming language being used.
 
 # LOGIC DIAGRAM
-![image](https://github.com/MunagalaSrinath/Simulation-project--Digital-Electronics/assets/118678482/d5b72f09-9625-49ab-9de3-58c5431e87ca)
+![image](https://github.com/MunagalaSrinath/Simulation-project--Digital-Electronics/assets/118678482/1ba19bfc-7d2e-48db-ba87-d64d23522d38)
 
 
 # NETLIST DIAGRAM
 ![image](https://github.com/MunagalaSrinath/Simulation-project--Digital-Electronics/assets/118678482/7b6bb79d-f8f5-41cf-a1bf-a47491786605)
 
 # TIMING DIAGRAM
-![image](https://github.com/MunagalaSrinath/Simulation-project--Digital-Electronics/assets/118678482/4e61b716-dab7-4fca-9594-52b013069726)
+![image](https://github.com/MunagalaSrinath/Simulation-project--Digital-Electronics/assets/118678482/613de96b-8c60-4cf5-9f53-71e2c55014eb)
 
 
 # PROGRAM
